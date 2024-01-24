@@ -1,0 +1,7 @@
+server:
+  servlet:
+    context-path: /busapp
+
+api:
+  api_key: 1deede6c46744a0d91cabaae8e9db006
+  base_url: http://api.sl.se/api2/LineData.json?
